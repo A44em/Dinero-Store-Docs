@@ -13,7 +13,14 @@ Because all your budgeting data and personalization settings are processed insid
 3. Find and tap on the **Dinero** app.
 4. Select **Clear Data** / **Clear Storage**. This instantly wipes all transactions, accounts, and application settings.
 
-### Option 2: Uninstall the App
+### Option 2: Request Account Deletion via Email
+If you would like to request the permanent deletion of your Firebase Authentication account associated with this application, you can do so by contacting us:
+1. Send an email to **asimali1996@gmail.com**.
+2. Use the subject line: **"Account Deletion Request - Dinero"**.
+3. Include the email address associated with your Dinero account in the body of the email.
+4. We will process your request and permanently delete your authentication record within 7 business days.
+
+### Option 3: Uninstall the App
 Simply uninstalling or deleting the **Dinero** app from your smartphone will permanently securely erase your associated local application data and settings from the operating system.
 
 ## Data Retention Policy
