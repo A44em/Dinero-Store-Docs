@@ -7,4 +7,4 @@ This repository hosts the official documentation, privacy policy, and terms of s
 - [Terms of Service](TERMS_OF_SERVICE.md)
 
 ## Support
-If you have any issues, questions, or would like to request a new feature, please [open an issue](https://github.com/assemali/Dinero/issues) on this repository!
+If you have any issues, questions, or would like to request a new feature, please [open an issue](https://github.com/A44em/Dinero-Store-Docs/issues) on this repository!
